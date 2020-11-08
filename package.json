@@ -1,0 +1,30 @@
+{
+  "name": "issue-20177",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericmorand/react-20177.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericmorand/react-20177/issues"
+  },
+  "homepage": "https://github.com/ericmorand/react-20177#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "broaderify": "^2.0.0",
+    "browserify": "^17.0.0",
+    "envify": "^4.1.0",
+    "uglifyify": "^5.0.2"
+  }
+}
